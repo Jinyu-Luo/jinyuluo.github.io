@@ -1,7 +1,5 @@
 # Jinyu Luo - Biostatistician
 
-![Profile Picture](assets/images/IDfoto.jpg){: style="width: 200px; float: left; margin-right: 20px;"}
-
 ## Education
 
 - **Master of Science (MSc), Biostatistics**  
