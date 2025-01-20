@@ -3,9 +3,7 @@ title: Jinyu Luo
 subtitle: Personal Projects & Blog
 url: https://jinyuluo.github.io
 logo: /assets/images/IDfoto.jpg
-description: >-
-  MSc., Biostatistics<br>
-  BSc., Statistics, Cognitive Psychology, Computer Science
+# description: 
   
 show_downloads: false
 theme: jekyll-theme-minimal
