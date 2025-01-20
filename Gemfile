@@ -11,3 +11,5 @@ gem 'jekyll'
 gem 'csv'
 gem 'base64'
 gem 'minimal-mistakes-jekyll'
+gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "webrick", "~> 1.9"
