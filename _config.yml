@@ -8,6 +8,10 @@ logo: /assets/images/IDfoto.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
 
+# Layout Customization
+style: 
+  image_width: "200px"  # Adjust this to make the photo smaller
+  content_width: "70%"  # Adjust width for better balance
 
 # Analytics
 analytics:
