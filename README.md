@@ -1,4 +1,4 @@
-# Jinyu Luo - Biostatistician
+# Biostatistician
 
 ## Education
 
