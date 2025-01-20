@@ -2,7 +2,9 @@
 
 ### Education 
 - MSc., Biostatistics | University of Toronto (_Oct 2024_)
-- BSc., Statistical Specialist in Cognitive Psychology, minor in Computer Science | University of Toronto (_Jun 2023_)
+- BSc., Statistical Specialist | University of Toronto (_Jun 2023_)
+⋅⋅⋅ Focus on Cognitive Psychology
+⋅⋅⋅ Minor in Computer Science 
 
 ### Work Experience
 
