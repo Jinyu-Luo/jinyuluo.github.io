@@ -2,7 +2,7 @@ locale: en
 title: Jinyu Luo
 subtitle: Personal Projects & Blog
 url: https://jinyuluo.github.io
-logo: /images/IDfoto.jpg
+logo: /assets/images/IDfoto.jpg
 description: >- 
   A personal blog and project showcase.
 show_downloads: false
