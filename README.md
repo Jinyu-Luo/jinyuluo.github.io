@@ -1,8 +1,11 @@
 # Biostatistician 
 
-### Education 
-- MSc., Biostatistics | University of Toronto (_Oct 2024_)
-- BSc., Statistical Specialist in Cognitive Psychology,minor in Computer Science | University of Toronto (_Jun 2023_)
+## Education 
+- **Master of Science (MSc), Biostatistics**  
+  *University of Toronto* (_October 2024_)
+
+- **Bachelor of Science (BSc), Statistical Specialist in Cognitive Psychology, Minor in Computer Science**  
+  *University of Toronto* (_June 2023_)
 
 ### Work Experience
 
