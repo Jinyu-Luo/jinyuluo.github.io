@@ -1,56 +1,9 @@
-# title: Jinyu Luo
-# logo: /images/IDfoto.jpg
-# # description: text below image
-# show_downloads: false
-# theme: jekyll-theme-minimal
-
-
-theme: jekyll-theme-minimal
-
-# Site Settings
-locale: "en"
-title: "Jinyu Luo"
-title_separator: "-"
+locale: en
+title: Jinyu Luo
 subtitle: Personal Projects & Blog
-name: "Jinyu Luo"
+url: https://jinyuluo.github.io
+logo: /images/IDfoto.jpg
 description: >- 
   A personal blog and project showcase.
-url: "https://jinyuluo.github.io"
-baseurl: "" # the subpath of your site, e.g. /blog
-repository: "Jinyu-Luo/jinyuluo.github.io"
-teaser: "/assets/images/IDfoto.jpg" # path of fallback teaser image
-logo: "/assets/images/IDfoto.jpg" # path of logo image to display in the masthead
-masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-
 show_downloads: false
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: false
-      show_date: true
+theme: jekyll-theme-minimal
